@@ -1,0 +1,5 @@
+body {
+  background-image: url("/src/Assets/HomePageBG.png");
+  background-attachment: fixed;
+  background-size: cover;
+}

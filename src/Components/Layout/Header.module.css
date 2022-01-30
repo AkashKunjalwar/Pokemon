@@ -1,0 +1,34 @@
+.header {
+  background-color: black;
+  color: white;
+  display: inline-flex;
+  width: 100%;
+  height: 100px;
+}
+
+.heading {
+  margin: 1rem 1rem 1rem 12rem;
+  font-size: 3rem;
+}
+
+.span {
+  color: #c6111e;
+}
+
+.header ul {
+  display: inline-flex;
+  list-style: none;
+  margin-left: 55rem;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.header ul li {
+  margin: 1rem 4rem 1rem 4rem;
+  font-size: 1.5rem;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+.footer p {
+  font-size: 1.25rem;
+}
+
+.footer ul {
+  list-style: none;
+  display: inline-flex;
+}
+
+.footer ul li {
+  margin: 1rem;
+}

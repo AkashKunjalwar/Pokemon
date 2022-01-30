@@ -1,0 +1,60 @@
+.mainPage {
+  background-image: linear-gradient(
+    45deg,
+    white,
+    #62a0f5,
+    white,
+    #62a0f5,
+    white,
+    #62a0f5,
+    white
+  );
+  font-family: "Cinzel", serif;
+  background-repeat: no-repeat;
+  padding: 50px 0 50px 0;
+}
+
+.searchBarDiv {
+  margin: 50px 0 50px 0;
+}
+
+.searchBar {
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.sideMenu {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+
+.sideMenu ul {
+  list-style: none;
+  text-align: left;
+  font-size: 20px;
+}
+
+.sideMenu ul li {
+  box-sizing: border-box;
+  width: 90%;
+  border-bottom: solid black 1px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.sideMenu ul li img {
+  margin-right: 50px;
+  width: 3%;
+}
+
+.collectionItemsList {
+  overflow-y: scroll;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  height: 550px;
+}

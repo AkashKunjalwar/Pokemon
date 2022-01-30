@@ -1,0 +1,8 @@
+.column {
+  flex: 50%;
+}
+
+.column img {
+  width: 80%;
+  margin: 50px auto;
+}

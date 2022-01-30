@@ -1,0 +1,41 @@
+.column {
+  flex: 50%;
+}
+
+.form {
+  width: 90%;
+  margin: 50px auto 40px auto;
+}
+
+.formRow {
+  display: flex;
+  margin: 30px 10px 30px 10px;
+  font-size: 25px;
+}
+
+.formRow label {
+  flex: 30%;
+}
+
+.formRow input {
+  flex: 70%;
+  font-size: 25px;
+  height: 35px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  padding-left: 15px;
+}
+
+.formRow ul {
+  max-height: 300px;
+  overflow-y: scroll;
+  border-style: ridge;
+}
+
+.formRow ul li {
+  list-style: none;
+  width: 90%;
+  margin-right: 350px;
+  padding: 5px;
+}
